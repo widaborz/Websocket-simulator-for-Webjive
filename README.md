@@ -35,14 +35,7 @@ function createSocket(tangoDB) {
 ## Install:
 
 ```
-python3 pip install tornado
-```
-
-
-## Run:
-
-```
-python3 wensocket.py
+pip install tornado
 ```
 
 ## Configuration:
@@ -57,3 +50,11 @@ time = 0.1
 
 *num_message* is the number of message to send to the websocket. 
 *time* is the time between two messages (in seconds)
+
+## Run:
+
+```
+python3 websocket.py
+```
+
+
