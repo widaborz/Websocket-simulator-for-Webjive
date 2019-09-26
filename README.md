@@ -35,7 +35,7 @@ function createSocket(tangoDB) {
 ## Install:
 
 ```
-pip install tornado
+``pip install tornado
 ```
 
 ## Configuration:
